@@ -1,7 +1,7 @@
 # UX Design
 
 ## 📝 Définissez une promesse de service
-Vous exercez en freelance et vous travaillez pour une petite école de cuisine basée à Paris, qui souhaite développer son activité. Tous leurs cours de cuisine se réservent des semaines à l'avance, ils cherchent dorénavant à développer de nouvelles activités commerciales. Les fondateurs de l’école pensent à proposer des cours de cuisine en ligne. Ils envisagent également de lancer un podcast..
+Ce projet consistait à accompagner la société « Les cordons bleus » dans l'identification de nouvelles opportunités commerciales. La forte augmentation des demandes d’inscription représentait pour l’école une réelle opportunité de croissance. Il s’agissait non seulement de trouver les moyens de répondre à la demande actuelle mais aussi de profiter de cette opportunité pour réfléchir à un enrichissement de l’expérience client et à une plus grande diversification des services à proposer.
 
 ## 🏆 Compétences évaluées 
 * Réaliser une veille et un benchmark concurrentiel sur un projet
