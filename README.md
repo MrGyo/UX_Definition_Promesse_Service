@@ -1,4 +1,4 @@
-# UX Design
+# UX Design - Définir une promesse de service
 
 ## 🏆 Compétences
 * Créer un business modèle canvas et définir la promesse de service
